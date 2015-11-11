@@ -1,3 +1,4 @@
-# mo
-[![Build Status](https://travis-ci.org/purepennons/mo.svg?branch=master)](https://travis-ci.org/purepennons/mo)
+# plib
+[![Build Status](https://travis-ci.org/purepennons/plib.svg)](https://travis-ci.org/purepennons/plib)
+
 A function for merge multiple objects by same keys

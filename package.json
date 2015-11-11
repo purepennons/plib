@@ -1,5 +1,5 @@
 {
-  "name": "mo",
+  "name": "plib",
   "version": "0.0.1",
   "description": "A function for merge multiple objects by same keys",
   "main": "index.js",
@@ -21,9 +21,9 @@
   "author": "Chiahao Lin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/purepennons/mo/issues"
+    "url": "https://github.com/purepennons/plib/issues"
   },
-  "homepage": "https://github.com/purepennons/mo#readme",
+  "homepage": "https://github.com/purepennons/plib#readme",
   "devDependencies": {
     "babel-core": "^6.1.2",
     "babel-preset-es2015": "^6.1.2",

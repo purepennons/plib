@@ -1,5 +1,5 @@
 import chai, {expect} from 'chai';
-import * as mo from '../lib/mo.js';
+import * as mo from '../lib/plib.js';
 
 describe('#mergeByKey', function() {
 
